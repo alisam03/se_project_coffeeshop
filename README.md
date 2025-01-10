@@ -13,4 +13,19 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+**Section backgrounds:**
+
+Add some light animations to each section's background.
+
+**Menu**
+
+Add images of menu items to the menu section.
+
+
+**Site overhaul**
+
+Create seperate pages for the recipe, menu, and reservation sections once skills needed have been obtained.
+
+The sections will be replaced with a page overview and link to the new pages.
+
+
