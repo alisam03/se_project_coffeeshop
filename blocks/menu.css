@@ -1,5 +1,5 @@
 .menu {
- background-image: url(../images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   background-position: center;
   background-size: cover;
   padding: 100px 0;
@@ -10,17 +10,17 @@
 }
 
 .menu__title {
- max-width: 780px;
- margin: 0 0 24px;
- font-weight: 500;
- font-size: 44px;
- line-height: 52px;
+  max-width: 780px;
+  margin: 0 0 24px;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
-.menu_subtitle {
+.menu__subtitle {
   max-width: 780px;
   margin: 0 0 100px;
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   text-align: center;

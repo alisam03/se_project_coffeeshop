@@ -6,7 +6,6 @@
   margin: 0;
   padding: 0;
   border: none;
-
 }
 
 .form__label {
@@ -26,7 +25,6 @@
   box-sizing: border-box;
   margin: 8px 0 32px;
   border: 1px solid #838383;
-
 }
 
 .form__button {
@@ -40,7 +38,7 @@
   border: none;
   padding: 20px 0;
   margin-bottom: 32px;
-  transition: background-color .8s ease-in-out;
+  transition: background-color 0.8s ease-in-out;
 }
 
 .form__button:hover {
@@ -57,4 +55,5 @@
   display: flex;
   justify-content: center;
   gap: 12px;
+  margin: 0;
 }

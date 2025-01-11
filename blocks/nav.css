@@ -22,7 +22,9 @@
 }
 
 .nav__link {
-  transition: opacity .5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+  text-decoration: none;
+  color: #000;
 }
 
 .nav__link:hover {
