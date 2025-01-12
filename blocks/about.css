@@ -44,6 +44,10 @@
 }
 
 .about__paragraph {
+  margin: 0;
+}
+
+.about__paragraph:not(:last-child) {
   margin-bottom: 20px;
 }
 

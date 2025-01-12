@@ -32,7 +32,7 @@
   margin: 0;
 }
 
-.footer__list-item:last-child {
+.footer__list-item:not(:first-child) {
   margin-top: 16px;
 }
 
